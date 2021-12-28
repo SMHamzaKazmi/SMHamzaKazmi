@@ -1,6 +1,4 @@
-### Hi there 👋
-My name is Syed Muhammad Hamza Kazmi. I work in Web and Mobile application development. I also work in Java GUI development. Contact me at hamzakazmi30@gmail.com.
-
+Hi there 👋
 
 <!--
 **SMHamzaKazmi/SMHamzaKazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
